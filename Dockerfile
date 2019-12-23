@@ -8,3 +8,4 @@ WORKDIR /home/otmsapi/p2p
 
 CMD java -jar /home/otmsapi/p2p/otms-p2p-service.jar
 
+
